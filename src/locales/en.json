@@ -1,0 +1,1019 @@
+{
+    "countries": [
+        {
+            "name": "Algeria",
+            "slug": "algeria",
+            "image": "Algérie.svg",
+            "id": 1,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Benin",
+            "slug": "benin",
+            "image": "Bénin.svg",
+            "id": 2,
+            "content": {
+                "A": {
+                    "title": "Obstacle to access (0 - 37 points)",
+                    "un": "Do infrastructural or government limitations restrict internet access or the speed and quality of internet connections? (0-18 points)",
+                    "content_1": "Internet penetration in Benin continues to increase from 15% to 26% of its population between 2016 and 2020. While there is no data on cell phone ownership, the ITU estimates that 98% of Beninese are covered by a cellular network, 80% have 3G mobile coverage, 98% have a cell phone subscription (voice & SMS) and 33% have a mobile Internet subscription in 2021",
+                    "content_1_part_2": "There is no data on gender differences for those connected.",
+                    "deux": "Are there legal, regulatory, or economic barriers that limit the diversity of service providers? Is access to the Internet prohibitively expensive or out of reach for some segments of the population for geographic, social, or other reasons? (0-10 points)",
+                    "content_2": "However, Beninese face high prices, spending 6.5% of their average monthly income on a mobile subscription with Internet in 2021",
+                    "content_2_part_2": "The cost increases to 14.5% of average monthly income for a mobile subscription with internet and high usage calls",
+                    "content_2_part_3": "The mobile market is 90% held by a duopoly (MTN group, Moov held by the Maroc Telecom group) and the Beninese government deplores insufficient annual investment",
+                    "content_2_part_4": "Faced with a significant cost, activists supported by artists like Crisba or Siano Babassa have launched the campaign #1gigafavi on social networks to demand a reduction in the cost of Internet connection in November 2021.",
+                    "content_2_part_5": "However, the government claims to have deployed a fiber optic network in 60 of the 77 municipalities",
+                    "content_2_part_6": ", in addition, 43 towns and villages have been provided with Community Digital Points (PNC) and free wifi access.",
+                    "trois": "Are there any digital skills development policies in the country (0-9 points)",
+                    "content_3": "The government's 2016-2021 roadmap includes a section on “Generalization of the use of digital technology in education and training”, but this mainly concerns the connection of schools to high-speed internet. Financed by the French and Beninese governments, in partnership with the Orange subsidiary, the Ecole des Métiers du Numérique was inaugurated in Cotonou in October 2022 and aims to train students in fiber optics",
+                    "content_3_part_2": "The government leads a policy of dematerialization of public services",
+                    "content_3_part_3": "The national public services portal will grow from 250 to 700 online public services between 2020 and 2022. Of the 97 transactional e-services, 21 represent fully paperless administrative procedures",
+                    "content_3_part_4": "While this dematerialization represents progress in terms of e-administration, it also creates a digital divide. The State has opened 15 communal public service centers at the end of 2021 with the support of the UNDP: citizens can be accompanied by agents to carry out their administrative procedures",
+                    "content_3_part_5": "The 43 NCPs conduct digital training sessions for citizens"
+                },
+                "B": {
+                    "title": "Content Limitations (0-23 points)",
+                    "un": "Does the state block or filter, or require ISPs to block or filter, Internet content, especially material protected by international human rights standards? (0-12 points)",
+                    "content_1": "No online services were blocked or experienced a major connection anomaly in Benin between January and November 2022.",
+                    "content_1_part_2": " This is also the case with the TOR tool. However, access to social networks had been blocked on the day of the parliamentary elections on 28 April 2019.",
+                    "content_1_part_3": "Only the two parties loyal to President Talon were allowed to run in these elections. However, the associations are vigilant in anticipation of the parliamentary elections on January 8, 2023.",
+                    "deux": "Do restrictions on the Internet and digital content lack transparency, proportionality to stated objectives, or an independent appeal process? (0-11 points)",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "Violations of user's rights (0-40 points)",
+                    "un": "Do the constitution or other laws fail to protect rights such as freedom of expression, anonymous communication and encryption, access to information, and freedom of the press, including on the Internet, and are they enforced by a judicial system that lacks independence? (0-14 points)",
+                    "content_1": "Benin has the Digital Code, an innovative device on the continent, adopted in 2018 through Law 2017-20. It notably frames open access to the internet (art. 13) and technological neutrality (art. 19), confidentiality of communications (art. 12), data protection under the supervision of the Personal Data Protection Authority (Title III). It provides a framework for freedom of expression online in its Chapter IX, in particular through its article 558 on “Press offences through electronic communication”.",
+                    "content_1_part_2": "The Code was amended by Act 2020-35 in December 2020 but does not include significant changes.",
+                    "deux": "Are individuals penalized or subjected to extralegal intimidation for online activities, including those protected by international human rights standards? (0-12 points)",
+                    "content_2": "Amnesty International Benin and Reporters Without Borders denounce the imprisonment of journalists under the Digital Code. The editor-in-chief and the owner of the media outlet Le Soleil Bénin Infos (Patrice Gbaguidi and Hervé Alladé) have been in prison since November 2021 for criticizing government abuses, following a defamation complaint by a customs official.",
+                    "content_2_part_2": "Journalist Ignace Sossou was jailed for six months for online harassment for criticizing the government and the digital code.",
+                    "content_2_part_3": "In September 2020, former journalist Aziz Imorou was arrested for defamation following his denunciation on Facebook of an alleged assault by a bodyguard of Armand Gansè, the director of the state company that manages public contracts. He was released in October 2020.",
+                    "content_2_part_4": "The Benin Human Rights Commission is asking parliamentarians to revise the Code to better protect freedom of expression and freedom of the press in 2021.",
+                    "trois": "Is civil society organized in favor of digital rights and freedoms? (0-14 points)",
+                    "content_3": "Civil society is structured by local chapters of human rights organizations: Amnesty International and Internet Society. VOA citoyennes, the Association des Blogueurs du Bénin, and Citoyen 229 are participating in the #CutNotInternet campaign launched in April 2021 by the Benin chapter of the Internet Society and Amnesty International Benin two months before the 2021 presidential elections to avoid the 2019 precedent. No disruptions were observed by its members, who set up monitoring tools. The focus was on the economic consequences of such a disruption. The Open Society Initiative for West Africa is active in Benin but does not have any digital-related activities.",
+                    "url": "https://www.osiwa.org/where-we-work/"
+                },
+                "AnchorTags": [
+                    {
+                        "id": 1,
+                        "main_content": "ITU Digital Development Scorecard, International Telecommunication Union, 2022",
+                        "consult": "(consulted on 19/11/2022)",
+                        "url": "https://www.itu.int/en/ITU-D/Statistics/Dashboards/Pages/Digital-Development.aspx"
+                    },
+                    {
+                        "id": 2,
+                        "main_content": "ITU, ibid",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 3,
+                        "main_content": "ibid",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 4,
+                        "main_content": "Presidency of the Republic of Benin, 2016, « Sector policy statement. Strategic orientations 2021 in the Digital Economy sector » p.10.",
+                        "consult": "null",
+                        "url": "https://numerique.gouv.bj/assets/Documents/DPS.pdf"
+                    },
+                    {
+                        "id": 5,
+                        "main_content": "Paradigm Initiative, 2022, « Report on rights and digital inclusion in Benin », p.4",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 6,
+                        "main_content": "The campaign is asking for a price of 500 CFA francs (1 euro) for 1 GB, against an access of 400 Mb for the same estimated price",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 7,
+                        "main_content": "Paradigm Initiative, 2021, « Digital Rights and Inclusion in Benin 2020 report ». p.2",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 8,
+                        "main_content": "Jeune Afrique, no date,« Digital revolution in Benin »",
+                        "consult": "(consulted on 19/11/2022)",
+                        "url": "https://www.jeuneafrique.com/brandcontent/1119893/revolution-numerique-au-benin/"
+                    },
+                    {
+                        "id": 9,
+                        "main_content": "Sofrecom, no date, « Sofrecom contributes to digital inclusion in Africa »",
+                        "consult": "(consulted on 19/11/2022)",
+                        "url": "https://www.sofrecom.com/news-insights/sofrecom-contribue-a-inclusion-numerique-afrique.html"
+                    },
+                    {
+                        "id": 10,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://service-public.bj/"
+                    },
+                    {
+                        "id": 11,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://jumelages-partenariats.com/dossiers.php?n=15081&art=B%C3%A9nin/Gouvernement_intelligent_:_enjeux_et_d%C3%A9fis_pour_un_num%C3%A9rique_plus_inclusif"
+                    },
+                    {
+                        "id": 12,
+                        "main_content": "Government of the Republic of Benin, 2016, « Bringing the administration closer to the users: The Government puts into service fifteen communal public service centers »",
+                        "consult": "(consulted on 19/11/2022)",
+                        "url": "https://www.gouv.bj/actualite/1621/rapprochement-administration-usagers-gouvernement-service-quinze-centres-communaux-service-public/"
+                    },
+                    {
+                        "id": 13,
+                        "main_content": "Tests performed on OONI for Whatsapp, Facebook Messenger, Telegram, Signal and the social network Twitter",
+                        "consult": "(consulted on 20/11/2022)",
+                        "url": "null"
+                    },
+                    {
+                        "id": 14,
+                        "main_content": "OONI, 2019, « Benin: Social media blocking and Internet blackout amid 2019 elections »",
+                        "consult": "(consulted on 20/11/2022)",
+                        "url": "https://ooni.org/post/2019-benin-social-media-blocking/"
+                    },
+                    {
+                        "id": 15,
+                        "main_content": "Facebook, Whatsapp, Telegram, Instagram, Skype, Snapchat, IMO.im, Google Hangout and WeChat were inaccessible from MTN Benin. For more details, see the OONI report.",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 16,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://www.afapdp.org/wp-content/uploads/2018/06/Benin-Loi-2017-20-Portant-code-du-numerique-en-Republique-du-Benin.pdf"
+                    },
+                    {
+                        "id": 17,
+                        "main_content": "Paradigme Initiative, 2021, p.3",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 18,
+                        "main_content": "Paradigm Initiative, 2020, p.3",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 19,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://www.lemonde.fr/afrique/article/2020/11/24/la-liberte-d-expression-recule-au-benin-estime-le-journaliste-d-investigation-ignace-sossou_6060975_3212.html"
+                    },
+                    {
+                        "id": 20,
+                        "main_content": "Paradigm Initiative, 2020, p.3",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 21,
+                        "main_content": "ibid",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 22,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://www.osiwa.org/where-we-work/"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Burkina Faso",
+            "slug": "burkina-faso",
+            "image": "Burkina Faso.svg",
+            "id": 3,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Burundi",
+            "slug": "burundi",
+            "image": "Burundi.svg",
+            "id": 4,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Cameroon",
+            "slug": "cameroon",
+            "image": "Cameroun.svg",
+            "id": 5,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Comoros",
+            "slug": "comoros",
+            "image": "Comores.svg",
+            "id": 6,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Ivory Coast",
+            "slug": "ivory-coast",
+            "image": "Côte d'Ivoire.svg",
+            "id": 7,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Djibouti",
+            "slug": "djibouti",
+            "image": "Djibouti.svg",
+            "id": 8,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Gabon",
+            "slug": "gabon",
+            "image": "Gabon.svg",
+            "id": 9,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Guinea",
+            "slug": "guinea",
+            "image": "Guinée.svg",
+            "id": 10,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Equatorial Guinea",
+            "slug": "equatorial-guinea",
+            "image": "Guinée Equatoriale.svg",
+            "id": 11,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Madagascar",
+            "slug": "madagascar",
+            "image": "Madagascar.svg",
+            "id": 12,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Mali",
+            "slug": "mali",
+            "image": "Mali.svg",
+            "id": 13,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Morocco",
+            "slug": "morocco",
+            "image": "Maroc.svg",
+            "id": 14,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Mauritius",
+            "slug": "mauritius",
+            "image": "Maurice.svg",
+            "id": 15,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Mauritania",
+            "slug": "mauritania",
+            "image": "Mauritanie.svg",
+            "id": 16,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Nigeria",
+            "slug": "nigeria",
+            "image": "Niger.svg",
+            "id": 17,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Central African Republic",
+            "slug": "central-african-republic",
+            "image": "RCA.svg",
+            "id": 18,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Democratic Republic of Congo",
+            "slug": "democratic-republic-of-congo",
+            "image": "République démocratique du Congo.svg",
+            "id": 19,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Republic of Congo",
+            "slug": "republic-of-congo",
+            "image": "République du Congo.svg",
+            "id": 20,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Rwanda",
+            "slug": "rwanda",
+            "image": "Rwanda.svg",
+            "id": 21,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Senegal",
+            "slug": "senegal",
+            "image": "Sénégal.svg",
+            "id": 22,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Seychelles",
+            "slug": "seychelles",
+            "image": "Seychelles.svg",
+            "id": 23,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Chad",
+            "slug": "chad",
+            "image": "Tchad.svg",
+            "id": 24,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Togo",
+            "slug": "togo",
+            "image": "Togo.svg",
+            "id": 25,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Tunisia",
+            "slug": "tunisia",
+            "image": "Tunisie.svg",
+            "id": 26,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        }
+    ],
+    "HomePage": "HomePage",
+    "About": "About",
+    "Map": "Map",
+    "CountryList": "Countries",
+    "SwitchTheme": "Change theme",
+    "ClickMe": "Click for more information"
+}

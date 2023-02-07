@@ -1,0 +1,1153 @@
+{
+    "countries": [
+        {
+            "name": "Algérie",
+            "slug": "algerie",
+            "image": "Algérie.svg",
+            "id": 1,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "AnchorTags": [
+                    {
+                        "id": 1,
+                        "main_content": "Tableau de bord du développement numérique de l'UIT, Union internationale des télécommunications, 2022",
+                        "consult": "(consulté le 19/11/2022)",
+                        "url": "https://www.itu.int/en/ITU-D/Statistics/Dashboards/Pages/Digital-Development.aspx"
+                    },
+                    {
+                        "id": 2,
+                        "main_content": "UIT, ibid",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 3,
+                        "main_content": "ibid",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 4,
+                        "main_content": "Présidence de la République du Bénin, 2016, « Déclaration de politique sectorielle. Orientations stratégiques 2021 dans le secteur de l’économie Numérique », p.10. Accessible via",
+                        "consult": "null",
+                        "url": "https://numerique.gouv.bj/assets/Documents/DPS.pdf"
+                    },
+                    {
+                        "id": 5,
+                        "main_content": "Paradigm Initiative, 2022, « Rapport sur les droits et l'inclusion numérique au Bénin », p.4",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 6,
+                        "main_content": "La campagne demande un prix de 500 francs CFA (1 euro) pour 1 GB, contre un accès de 400 Mb pour le même prix estimé",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 7,
+                        "main_content": "Paradigm Initiative, 2021, « Droits numériques et inclusion au Bénin 2020 rapport ». p.2",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 8,
+                        "main_content": "Jeune Afrique, pas de date,« Révolution numérique au Bénin »",
+                        "consult": "(consulté le 19/11/2022)",
+                        "url": "https://www.jeuneafrique.com/brandcontent/1119893/revolution-numerique-au-benin/"
+                    },
+                    {
+                        "id": 9,
+                        "main_content": "Sofrecom, pas de date, « Sofrecom contribue à l’inclusion numérique en Afrique »",
+                        "consult": "(consulté le 19/11/2022)",
+                        "url": "https://www.sofrecom.com/news-insights/sofrecom-contribue-a-inclusion-numerique-afrique.html"
+                    },
+                    {
+                        "id": 10,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://service-public.bj/"
+                    },
+                    {
+                        "id": 11,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://jumelages-partenariats.com/dossiers.php?n=15081&art=B%C3%A9nin/Gouvernement_intelligent_:_enjeux_et_d%C3%A9fis_pour_un_num%C3%A9rique_plus_inclusif"
+                    },
+                    {
+                        "id": 12,
+                        "main_content": "Gouvernement de la République du Bénin, 2016, « Rapprochement de l’administration des usagers : Le Gouvernement met en service quinze centres communaux de service public »",
+                        "consult": "(consulté le 19/11/2022)",
+                        "url": "https://www.gouv.bj/actualite/1621/rapprochement-administration-usagers-gouvernement-service-quinze-centres-communaux-service-public/"
+                    },
+                    {
+                        "id": 13,
+                        "main_content": "Tests réalisés sur OONI pour les messageries Whatsapp, Facebook Messenger, Telegram, Signal et le réseau social Twitter (20/11/2022)",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 14,
+                        "main_content": "OONI, 2019, « Benin: Social media blocking and Internet blackout amid 2019 elections »",
+                        "consult": "(consulté le 20/11/2022)",
+                        "url": "https://ooni.org/post/2019-benin-social-media-blocking/"
+                    },
+                    {
+                        "id": 15,
+                        "main_content": "Facebook, Whatsapp, Telegram, Instagram, Skype, Snapchat, IMO.im, Google Hangout et WeChat étaient inaccessibles depuis MTN Bénin. Pour plus de détails, voir le rapport d’OONI.",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 16,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://www.afapdp.org/wp-content/uploads/2018/06/Benin-Loi-2017-20-Portant-code-du-numerique-en-Republique-du-Benin.pdf"
+                    },
+                    {
+                        "id": 17,
+                        "main_content": "Paradigme Initiative, 2021, p.3",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 18,
+                        "main_content": "Paradigm Initiative, 2020, p.3",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 19,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://www.lemonde.fr/afrique/article/2020/11/24/la-liberte-d-expression-recule-au-benin-estime-le-journaliste-d-investigation-ignace-sossou_6060975_3212.html"
+                    },
+                    {
+                        "id": 20,
+                        "main_content": "Paradigm Initiative, 2020, p.3",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 21,
+                        "main_content": "ibid",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 22,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://www.osiwa.org/fr/ou-nous-travaillons/"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Bénin",
+            "slug": "benin",
+            "image": "Bénin.svg",
+            "id": 2,
+            "content": {
+                "A": {
+                    "title": "Obstacle à l'accès (0 – 37 points)",
+                    "un": "Les limitations infrastructurelles ou le gouvernement restreignent-ils l'accès à l'internet ou la vitesse et la qualité des connexions à l'internet ? (0–18 points)",
+                    "content_1": "La pénétration d’Internet au Bénin se poursuit en passant de 15% à 26% de sa population entre 2016 et 2020. S’il n’y a pas de données sur la détention d’un téléphone portable, l’ITU estime en revanche que 98% des Béninois sont couverts par un réseau cellulaire, 80% bénéficient d’un réseau mobile 3G, 98% ont un abonnement mobile téléphonique (voix & SMS) et 33% ont un abonnement mobile à Internet en 2021",
+                    "content_1_part_2": "Il n’existe pas de données sur les différences de genre pour les personnes connectées.",
+                    "deux": "Existe-t-il des obstacles juridiques, réglementaires ou économiques qui limitent la diversité des fournisseurs de services ? L'accès à l'internet a-t-il un coût prohibitif ou est-il hors de portée de certains segments de la population pour des raisons géographiques, sociales ou autres ? (0-10 points)",
+                    "content_2": "Les Béninois font cependant face à des prix importants, consacrant ainsi 6.5% de leurs revenus moyens mensuels pour un abonnement mobile avec Internet en 2021",
+                    "content_2_part_2": "Le coût passe à 14.5% du revenu mensuel moyen pour un abonnement mobile avec internet et des appels à haute consommation",
+                    "content_2_part_3": "Le marché mobile est détenu à 90% par un duopole (groupe MTN, Moov détenu par le groupe Maroc Telecom) et le gouvernement béninois déplore un investissement annuel insuffisant",
+                    "content_2_part_4": "Face à un coût important, des militants soutenus par des artistes comme Crisba ou Siano Babassa ont lancé la campagne #1gigafavi sur les réseaux sociaux pour demander une réduction des coûts de connection à Internet en novembre 2021.",
+                    "content_2_part_5": "Le gouvernement revendique toutefois avoir déployé un réseau de fibre optique dans 60 des 77 communes",
+                    "content_2_part_6": ", tandis que 43 chefs-lieux de communes bénéficient de Points Numériques Communautaires (PNC) et des des bornes wifi gratuites.",
+                    "trois": "Existe-t-il des politiques de développement des compétences numériques dans le pays ? (0-9 points)",
+                    "content_3": "La feuille de route 2016-2021 du gouvernement inclut un volet de “Généralisation de l’usage du numérique par l’éducation et la formation” mais qui concerne principalement la connexion des établissements scolaires à l’internet haut-débit. Financés par les gouvernements français et béninois, en partenariat notamment avec la filiale d’Orange, l’Ecole des Métiers du Numérique a été inaugurée à Cotonou en octobre 2022 et vise à former aux métiers de la fibre optique",
+                    "content_3_part_2": "Le gouvernement mène une politique de dématérialisation des services publics",
+                    "content_3_part_3": "Le portail national des services publics passe de 250 à 700 services publics en ligne entre 2020 et 2022. Sur les 97 e-services transactionnels, 21 représentent des démarches administratives entièrement dématérialisées",
+                    "content_3_part_4": "Si cette dématérialisation représente un progrès en termes d’e-administration, elle nourrit toutefois une fracture numérique. L’Etat a ouvert 15 centres communaux de service public fin 2021 avec le soutien du PNUD: les citoyens peuvent y être accompagnés par des agents pour réaliser leurs démarches administratives",
+                    "content_3_part_5": "Les 43 PNC animent notamment des formations numériques auprès des citoyens"
+                },
+                "B": {
+                    "title": "Limites en matière de contenu (0–23 points)",
+                    "un": "L'État bloque-t-il ou filtre-t-il, ou oblige-t-il les fournisseurs d'accès à bloquer ou filtrer, le contenu de l'Internet, en particulier le matériel protégé par les normes internationales relatives aux droits de l'homme ? (0–12 points)",
+                    "content_1": "Aucun service en ligne n’a été bloqué ou a fait l’objet d’une anomalie de connexion majeure au Bénin entre janvier et novembre 2022.",
+                    "content_1_part_2": " C’est également le cas de l’outil TOR. Toutefois, l’accès aux réseaux sociaux avait été bloqué le jour des élections parlementaires le 28 avril 2019.",
+                    "content_1_part_3": "Seuls les deux partis loyaux envers le président Talon avaient été autorisés à se présenter à ces élections. Les associations sont toutefois vigilantes en prévision des élections parlementaires le 8 janvier 2023.",
+                    "deux": "Les restrictions imposées à l'internet et aux contenus numériques manquent-elles de transparence, de proportionnalité par rapport aux objectifs déclarés, ou d'une procédure de recours indépendante ? (0–11 points)",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "Violations des droits des utilisateurs (0–40 points)",
+                    "un": "La constitution ou d'autres lois ne protègent-elles pas des droits tels que la liberté d'expression, la communication anonyme et le cryptage, l'accès à l'information et la liberté de la presse, y compris sur Internet, et sont-elles appliquées par un système judiciaire qui manque d'indépendance ? (0–14 points)",
+                    "content_1": "Le Bénin dispose du Code du Numérique, un dispositif innovant sur le continent, adopté en 2018 à travers la loi 2017-20. Il encadre notamment l’accès ouvert à internet (art. 13) et la neutralité technologique (art. 19), la confidentialité des communications (art. 12), la protection des données sous la tutelle de l’Autorité de Protection des Données Personnelles (Titre III). Elle encadre la liberté d’expression en ligne dans son chapitre IX, notamment à travers son article 558 sur “Infractions de presse par le biais d’une communication électronique”",
+                    "content_1_part_2": "Le Code a été amendé par la loi 2020-35 en décembre 2020 mais ne comporte pas de modifications significatives.",
+                    "deux": "Les individus sont-ils pénalisés ou soumis à des intimidations extralégales pour des activités en ligne, notamment celles qui sont protégées par les normes internationales relatives aux droits de l'homme ? (0–12 points)",
+                    "content_2": "Amnesty International Bénin et Reporters Sans Frontières dénoncent l’emprisonnement de journalistes sur la base du Code du Numérique. Le rédacteur en chef ainsi que le propriétaire du média Le Soleil Bénin Infos (Patrice Gbaguidi et Hervé Alladé) sont en prison depuis novembre 2021 pour avoir critiqué des dérives du gouvernement, suite à une plainte pour diffamation d’un fonctionnaire des Douanes.",
+                    "content_2_part_2": "Le journaliste Ignace Sossou a été emprisonné pendant 6 mois pour harcèlement en ligne pour avoir critiqué le gouvernement et le code du numérique.",
+                    "content_2_part_3": "En septembre 2020, l’ex-journaliste Aziz Imorou a été arrêté pour diffamation suite à sa dénonciation sur Facebook d’une agression présumée par un garde du corps d’Armand Gansè, le directeur de la société d’Etat qui gère les marchés publics. Il est libéré en octobre 2020.",
+                    "content_2_part_4": "La Commission Béninoise des Droits de l’Homme demande aux parlementaires de réviser le Code pour mieux protéger la liberté d’expression et la liberté de la presse en 2021.",
+                    "trois": "La société civile est-elle organisée en faveur des droits et libertés numériques ? (0-14 points)",
+                    "content_3": "La société civile est structurée par des chapitres locaux d’organisations de défense des droits humains: Amnesty International et Internet Society. VOA citoyennes, l’Association des Blogueurs du Bénin et Citoyen 229 participent à la campagne #CoupezPasInternet lancée en avril 2021 par le chapitre béninois d’Internet Society et Amnesty International Bénin deux mois avant les élections présidentielles de 2021 pour éviter le précédent de 2019. Aucune perturbation n’a été observée par ses membres qui ont mis en place des outils de monitoring. L’accent a été mis sur les conséquences économiques d’une telle perturbation. L’Open Society Initiative for West Africa est active au Bénin mais ne comporte pas d’activités liées au numériques.",
+                    "url": "https://www.osiwa.org/fr/ou-nous-travaillons/"
+                },
+                "AnchorTags": [
+                    {
+                        "id": 1,
+                        "main_content": "Tableau de bord du développement numérique de l'UIT, Union internationale des télécommunications, 2022",
+                        "consult": "(consulté le 19/11/2022)",
+                        "url": "https://www.itu.int/en/ITU-D/Statistics/Dashboards/Pages/Digital-Development.aspx"
+                    },
+                    {
+                        "id": 2,
+                        "main_content": "UIT, ibid",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 3,
+                        "main_content": "ibid",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 4,
+                        "main_content": "Présidence de la République du Bénin, 2016, « Déclaration de politique sectorielle. Orientations stratégiques 2021 dans le secteur de l’économie Numérique », p.10. Accessible via",
+                        "consult": "null",
+                        "url": "https://numerique.gouv.bj/assets/Documents/DPS.pdf"
+                    },
+                    {
+                        "id": 5,
+                        "main_content": "Paradigm Initiative, 2022, « Rapport sur les droits et l'inclusion numérique au Bénin », p.4",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 6,
+                        "main_content": "La campagne demande un prix de 500 francs CFA (1 euro) pour 1 GB, contre un accès de 400 Mb pour le même prix estimé",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 7,
+                        "main_content": "Paradigm Initiative, 2021, « Droits numériques et inclusion au Bénin 2020 rapport ». p.2",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 8,
+                        "main_content": "Jeune Afrique, pas de date,« Révolution numérique au Bénin »",
+                        "consult": "(consulté le 19/11/2022)",
+                        "url": "https://www.jeuneafrique.com/brandcontent/1119893/revolution-numerique-au-benin/"
+                    },
+                    {
+                        "id": 9,
+                        "main_content": "Sofrecom, pas de date, « Sofrecom contribue à l’inclusion numérique en Afrique »",
+                        "consult": "(consulté le 19/11/2022)",
+                        "url": "https://www.sofrecom.com/news-insights/sofrecom-contribue-a-inclusion-numerique-afrique.html"
+                    },
+                    {
+                        "id": 10,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://service-public.bj/"
+                    },
+                    {
+                        "id": 11,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://jumelages-partenariats.com/dossiers.php?n=15081&art=B%C3%A9nin/Gouvernement_intelligent_:_enjeux_et_d%C3%A9fis_pour_un_num%C3%A9rique_plus_inclusif"
+                    },
+                    {
+                        "id": 12,
+                        "main_content": "Gouvernement de la République du Bénin, 2016, « Rapprochement de l’administration des usagers : Le Gouvernement met en service quinze centres communaux de service public »",
+                        "consult": "(consulté le 19/11/2022)",
+                        "url": "https://www.gouv.bj/actualite/1621/rapprochement-administration-usagers-gouvernement-service-quinze-centres-communaux-service-public/"
+                    },
+                    {
+                        "id": 13,
+                        "main_content": "Tests réalisés sur OONI pour les messageries Whatsapp, Facebook Messenger, Telegram, Signal et le réseau social Twitter (20/11/2022)",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 14,
+                        "main_content": "OONI, 2019, « Bénin : Blocage des médias sociaux et coupure d'Internet en vue des élections de 2019 »",
+                        "consult": "(consulté le 20/11/2022)",
+                        "url": "https://ooni.org/post/2019-benin-social-media-blocking/"
+                    },
+                    {
+                        "id": 15,
+                        "main_content": "Facebook, Whatsapp, Telegram, Instagram, Skype, Snapchat, IMO.im, Google Hangout et WeChat étaient inaccessibles depuis MTN Bénin. Pour plus de détails, voir le rapport d’OONI.",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 16,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://www.afapdp.org/wp-content/uploads/2018/06/Benin-Loi-2017-20-Portant-code-du-numerique-en-Republique-du-Benin.pdf"
+                    },
+                    {
+                        "id": 17,
+                        "main_content": "Paradigme Initiative, 2021, p.3",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 18,
+                        "main_content": "Paradigm Initiative, 2020, p.3",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 19,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://www.lemonde.fr/afrique/article/2020/11/24/la-liberte-d-expression-recule-au-benin-estime-le-journaliste-d-investigation-ignace-sossou_6060975_3212.html"
+                    },
+                    {
+                        "id": 20,
+                        "main_content": "Paradigm Initiative, 2020, p.3",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 21,
+                        "main_content": "ibid",
+                        "consult": "null",
+                        "url": "null"
+                    },
+                    {
+                        "id": 22,
+                        "main_content": "null",
+                        "consult": "null",
+                        "url": "https://www.osiwa.org/fr/ou-nous-travaillons/"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Burkina Faso",
+            "slug": "burkina-faso",
+            "image": "Burkina Faso.svg",
+            "id": 3,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Burundi",
+            "slug": "burundi",
+            "image": "Burundi.svg",
+            "id": 4,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Cameroun",
+            "slug": "cameroun",
+            "image": "Cameroun.svg",
+            "id": 5,
+            "content": {
+                "A": {
+                    "title": "Obstacle à l'accès (0 – 25 points)",
+                    "un": "La pénétration d’Internet au Cameroun se poursuit en passant de 21 % à 38 % de sa population entre 2016 et 2020 (ITU). Si 75 % des Camerounais possèdent un téléphone mobile (75%) et 79 % sont couverts par un réseau cellulaire, seuls 33 % sont couverts par un réseau mobile 3G (2021) et 35 % de la population a un abonnement fixe ou mobile en 2021. On notera un écart de genre avec 27 % d’hommes connectés contre 19 % de femmes connectées. Les Camerounais font face à des prix prohibitifs, consacrant ainsi 60 % de leurs revenus moyens mensuels pour un abonnement standard à Internet (mobile ou fixe) (CIPESA, 2021, p.8). De plus, 2 des 4 grands opérateurs (MTN, Orange) offrent un service de qualité médiocre avec une moyenne annuelle de 60 perturbations du réseau et qui peuvent être amenées à dure entre 30 minutes et 2 heures (Londa 2021 Digital Rights and Inclusion report). Un tel service coûteux et peu fiable porte préjudice aux Camerounais. De plus, le gouvernment a prévu la Loi 2018/022 sur la finance depuis 2018 qui prévoit d’imposer tous les logiciels téléchargés de l’étranger sur téléphones, tablettes et ordinateurs. L’annonce a suscité la colère des internautes et la loi n’est pas encore rentrée encore rentrée en application (CIPESA, 2020, p.14). Le gouvernement a lancé en 2016 le « Plan stratégique Cameroun numérique 2020 ». Ce plan avait pour but d’améliorer les infrastructures numériques et la cybersécurité du Cameroun ainsi que les compétences numériques des Camerounais. Toutefois, les nombreuses coupures d’internet orchestrées par le gouvernement ont miné la mise en place du plan stratégique.",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "De nombreuse lois favorisent la censure et limite ainsi le type de contenu pouvant être partagé sur les réseaux sociaux. La loi du 12 décembre 2010 relative à la cybersécurité et la cybercriminalité prévoit des amendes ainsi que des peines de prison pour toute personne qui « diffuserait des informations qui ne sont pas en mesure de vérifier » . Cette loi incite la population à ne mettre en cause ouvertement les informations diffusées par le gouvernement. Par ailleurs, elle interdit à quiconque de faire « des propositions sexuelles à une personne de son sexe » par la voie de « communication électronique ».  Cette loi vise de manière discriminante la communauté LGBT du pays qui est par ailleurs victimes de nombreuses intimidations à travers le pays (Roberts, 2021, p.240). Le Cameroun a aussi été accusé de servir de la loi du 23 décembre 2014 contre le terrorisme afin de restreindre la liberté d’expression de sa population.  Dans ce texte, le gouvernement définit de manière très large le terrorisme. De nombreux défenseurs des droits humains craignent que cette vaste définition du terrorise serve la politique de censure mené par le gouvernement. En effet, en 2016, le gouvernement a été accusé de réagir tardivement à la catastrophe ferroviaire d’Eseka qui a fait plus de 80 morts et 600 blessés. De nombreux camerounais ont mis en cause la version officielle de l’accident et ont proposé un récit alternatif en postant photos et vidéos sur les réseaux sociaux. Face à cela, le président de l’assemblée nationale, Cavaye Djibril, a accusé les médias sociaux d’être « une nouvelle forme de terrorisme » (Roberts, 2021, p.236).",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "De nombreuse lois favorisent la censure et limite ainsi le type de contenu pouvant être partagé sur les réseaux sociaux. La loi du 12 décembre 2010 relative à la cybersécurité et la cybercriminalité prévoit des amendes ainsi que des peines de prison pour toute personne qui « diffuserait des informations qui ne sont pas en mesure de vérifier » . Cette loi incite la population à ne mettre en cause ouvertement les informations diffusées par le gouvernement. Par ailleurs, elle interdit à quiconque de faire « des propositions sexuelles à une personne de son sexe » par la voie de « communication électronique ».  Cette loi vise de manière discriminante la communauté LGBT du pays qui est par ailleurs victimes de nombreuses intimidations à travers le pays (Roberts, 2021, p.240). Le Cameroun a aussi été accusé de servir de la loi du 23 décembre 2014 contre le terrorisme afin de restreindre la liberté d’expression de sa population.  Dans ce texte, le gouvernement définit de manière très large le terrorisme. De nombreux défenseurs des droits humains craignent que cette vaste définition du terrorise serve la politique de censure mené par le gouvernement. En effet, en 2016, le gouvernement a été accusé de réagir tardivement à la catastrophe ferroviaire d’Eseka qui a fait plus de 80 morts et 600 blessés. De nombreux camerounais ont mis en cause la version officielle de l’accident et ont proposé un récit alternatif en postant photos et vidéos sur les réseaux sociaux. Face à cela, le président de l’assemblée nationale, Cavaye Djibril, a accusé les médias sociaux d’être « une nouvelle forme de terrorisme » (Roberts, 2021, p.236).",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Comores",
+            "slug": "comores",
+            "image": "Comores.svg",
+            "id": 6,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Côte d'Ivoire",
+            "slug": "cote-d-ivoire",
+            "image": "Côte d'Ivoire.svg",
+            "id": 7,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Djibouti",
+            "slug": "djibouti",
+            "image": "Djibouti.svg",
+            "id": 8,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Gabon",
+            "slug": "gabon",
+            "image": "Gabon.svg",
+            "id": 9,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Guinée",
+            "slug": "guinee",
+            "image": "Guinée.svg",
+            "id": 10,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Guinée Equatoriale",
+            "slug": "guinee-equatoriale",
+            "image": "Guinée Equatoriale.svg",
+            "id": 11,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Madagascar",
+            "slug": "madagascar",
+            "image": "Madagascar.svg",
+            "id": 12,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Mali",
+            "slug": "mali",
+            "image": "Mali.svg",
+            "id": 13,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Maroc",
+            "slug": "maroc",
+            "image": "Maroc.svg",
+            "id": 14,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Maurice",
+            "slug": "maurice",
+            "image": "Maurice.svg",
+            "id": 15,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Mauritanie",
+            "slug": "mauritanie",
+            "image": "Mauritanie.svg",
+            "id": 16,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Niger",
+            "slug": "niger",
+            "image": "Niger.svg",
+            "id": 17,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "République centrafricaine",
+            "slug": "republique-centrafricaine",
+            "image": "RCA.svg",
+            "id": 18,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "République démocratique du Congo",
+            "slug": "republique-democratique-du-congo",
+            "image": "République démocratique du Congo.svg",
+            "id": 19,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "République du Congo",
+            "slug": "republique-du-congo",
+            "image": "République du Congo.svg",
+            "id": 20,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Rwanda",
+            "slug": "rwanda",
+            "image": "Rwanda.svg",
+            "id": 21,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Sénégal",
+            "slug": "senegal",
+            "image": "Sénégal.svg",
+            "id": 22,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Seychelles",
+            "slug": "seychelles",
+            "image": "Seychelles.svg",
+            "id": 23,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Tchad",
+            "slug": "tchad",
+            "image": "Tchad.svg",
+            "id": 24,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Togo",
+            "slug": "togo",
+            "image": "Togo.svg",
+            "id": 25,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        },
+        {
+            "name": "Tunisie",
+            "slug": "tunisie",
+            "image": "Tunisie.svg",
+            "id": 26,
+            "content": {
+                "A": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                },
+                "B": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": ""
+                },
+                "C": {
+                    "title": "",
+                    "un": "",
+                    "content_1": "",
+                    "deux": "",
+                    "content_2": "",
+                    "trois": "",
+                    "content_3": ""
+                }
+            }
+        }
+    ],
+    "HomePage": "Page d'acceuil",
+    "About": "À propos de",
+    "Map": "Carte",
+    "CountryList": "Liste des Pays",
+    "SwitchTheme": "Changer de theme",
+    "ClickMe": "Cliquez pour plus d'information"
+}
