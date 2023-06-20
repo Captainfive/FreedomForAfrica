@@ -1,4 +1,31 @@
 {
+    "HomePage": "Page d'acceuil",
+    "Download": "Télécharger le PDF",
+    "About": "À propos de",
+    "Map": "Carte",
+    "CountryList": "Liste des Pays",
+    "ClickMe": "Cliquez pour plus d'information",
+    "Homepage_paragraph_1": "L’objectif de cette étude est de dresser un état des lieux des libertés numériques dans 26 pays francophones en Afrique. Ce rapport a notamment pour but de compléter l’étude annuelle Freedom of the Net en y intégrant des pays qui n’étaient pas couverts jusqu’à présent.",
+    "Homepage_paragraph_2": "Les libertés numériques représentent l’ensemble des libertés individuelles et collectives associées au numérique. Ces libertés incluent notamment le droit à la protection de ses données personnelles et la liberté d’information et de communication sans être surveillé ou censuré. Dans un monde où le numérique est omniprésent, les libertés numériques sont des conditions indispensables pour l’exercice des libertés fondamentales.",
+    "Homepage_paragraph_3": "Le mouvement des libertés numériques exerce une critique du numérique tel qu’il a été déployé de façon dominante, et ses revendications récurrentes tendent vers un Internet libre, ouvert, décentralisé et sans surveillance par opposition à un Internet dominé par des plateformes fermées, centralisées, propriétaires, et dont les modèles d’affaires reposent exclusivement sur le profilage publicitaire. En particulier, ce mouvement s’oppose à l’émergence de pratiques et législations agressives instrumentalisées contre la société civile : des coupures d’Internet organisées par les gouvernements, la censure de sites d’information et des réseaux sociaux en ligne, l’arrestation des citoyens pour des publications critiques en ligne. Or, cette tendance s’accélère dans les pays francophones en Afrique.",
+    "Homepage_paragraph_4": "De nombreuses organisations œuvrent pour l’émergence d’un cyberespace respectueux des libertés numériques. Ces organisations agissent aussi bien à l’échelle internationale (Access Now, Article 19, Association for Progressive Communication, Internews…) que régionale (CIPESA, Paradigm Initiative, Pollicy…) Toutefois, celles-ci opèrent principalement dans le monde anglophone et peinent à mener des actions en faveur des libertés numériques dans les pays d’Afrique francophone. Il en résulte une faible connaissance de l’état des libertés numériques dans les pays d’Afrique francophone. En témoigne le nombre de pays francophones d’Afrique couverts par l’étude Freedom of the Net. Parmi les 17 pays d’Afrique couverts par l'étude, seuls trois sont francophones (Maroc, Tunisie et Rwanda).",
+    "Homepage_paragraph_5": "Il n’existe pas d’organisation dressant un état des lieux annuel des libertés numériques dans l’ensemble des pays d’Afrique francophone. Or, établir un état des lieux est la première étape nécessaire à la construction d’un cyberespace respectueux des libertés numériques.",
+    "Homepage_paragraph_6": "Afin de permettre une comparaison entre les pays, nous avons suivi ",
+    "Homepage_paragraph_7": "la méthodologie définie par Freedom House.",
+    "Homepage_paragraph_8": "Toutefois, du fait de contraintes de temps et de ressources, il a été décidé de la simplifier et de l’adapter.",
+    "Methodology": "Méthodologie & résultats",
+    "Methodology_paragraph_1": "Afin de permettre une comparaison entre les pays, nous avons suivi la méthodologie définie par Freedom House. Toutefois, du fait de contraintes de temps et de ressources, il a été décidé de la simplifier et de l’adapter. Nous nous sommes appuyés sur certains rapports de pays individuels publiés notamment par CIPESA, Paradigm Initiative et la Media Foundation for West Africa (MFWA). Nous avons aussi compilé les données manquantes pour les pays non-couverts en effectuant des recherches en sources ouvertes.",
+    "Methodology_paragraph_2": "Nous avons mené en parallèle mené de nombreux entretiens avec des experts locaux des libertés numériques ainsi qu’avec des organisations œuvrant à l’échelle internationale et régionale. Une quarantaine d’entretiens ont ainsi eu lieu durant les mois de décembre 2022 et janvier 2023 et nous ont permis de compléter les fiches réalisées tout en tissant des liens avec ces acteurs.",
+    "Methodology_paragraph_3": "Enfin, sur la base de nos recherches et des entretiens, nous attribuons un score pour chaque question et établissons un score global de l’état des libertés numériques dans les pays concernés. Ainsi, le score global est attribué selon les résultats suivants :",
+    "Methodology_A": "Score A",
+    "Methodology_A_2": "les libertés numériques sont respectées et le pays est considéré comme libre. Il faut atteindre entre 81 et 100 points.",
+    "Methodology_B": "Score B",
+    "Methodology_B_2": "les libertés numériques sont partiellement respectées et le pays est considéré comme partiellement libre. Il faut atteindre entre 56 et 80 points.",
+    "Methodology_C": "Score C",
+    "Methodology_C_2": "les libertés numériques sont particulièrement en difficulté dans le pays concerné et le pays est considéré comme partiellement non-libre 31 et 55 points.",
+    "Methodology_D": "Score D",
+    "Methodology_D_2": "les libertés numériques sont gravement en difficulté dans le pays concerné et le pays est considéré comme non-libre 0 et 30 points.",
+    "Nota_Bene": "Ce rapport a été financé par l’Agence Française de Développement mais n’est pas le reflet de sa position sur le sujet. Nous remercions l’AFD ainsi que les acteurs que nous avons pu interviewer pour ce rapport.",
     "countries": [
         {
             "name": "Algérie",
@@ -847,7 +874,7 @@
             }
         },
         {
-            "name": "République centrafricaine",
+            "name": "République Centrafricaine",
             "slug": "republique-centrafricaine",
             "image": "RCA.svg",
             "id": 18,
@@ -880,7 +907,7 @@
             }
         },
         {
-            "name": "République démocratique du Congo",
+            "name": "République Démocratique du Congo",
             "slug": "republique-democratique-du-congo",
             "image": "République démocratique du Congo.svg",
             "id": 19,
@@ -1143,11 +1170,5 @@
                 }
             }
         }
-    ],
-    "HomePage": "Page d'acceuil",
-    "About": "À propos de",
-    "Map": "Carte",
-    "CountryList": "Liste des Pays",
-    "SwitchTheme": "Changer de theme",
-    "ClickMe": "Cliquez pour plus d'information"
+    ]
 }

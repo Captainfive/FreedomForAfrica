@@ -1,4 +1,31 @@
 {
+    "HomePage": "HomePage",
+    "Download": "Download PDF",
+    "About": "About",
+    "Map": "Map",
+    "CountryList": "Countries",
+    "ClickMe": "Click for more information",
+    "Homepage_paragraph_1": "The objective of this study is to draw up a report on the state of digital freedoms in 26 French-speaking countries in Africa. This report is intended to complement the annual Freedom of the Net study by including countries that were not covered until now.",
+    "Homepage_paragraph_2": "Digital freedoms are the set of individual and collective freedoms associated with the digital world. These freedoms include the right to protection of personal data and the freedom to inform and communicate without being monitored or censored. In a world where digital technology is ubiquitous, digital freedoms are indispensable conditions for the exercise of fundamental freedoms.",
+    "Homepage_paragraph_3": "The digital freedoms movement is critical of the digital world as it has been dominantly deployed, and its recurring demands are for a free, open, decentralised and surveillance-free Internet as opposed to one dominated by closed, centralised, proprietary platforms whose business models are based exclusively on advertising profiling. In particular, this movement opposes the emergence of aggressive practices and legislation instrumentalized against civil society: government-organized Internet shutdowns, censorship of news sites and online social networks, arrest of citizens for critical online publications. This trend is accelerating in Francophone countries in Africa.",
+    "Homepage_paragraph_4": "Many organisations are working for the emergence of a cyberspace that respects digital freedoms. These organisations are active at both the international (Access Now, Article 19, Association for Progressive Communication, Internews, etc.) and regional (CIPESA, Paradigm Initiative, Pollicy, etc.) levels. As a result, there is little knowledge of the state of digital freedoms in French-speaking African countries. This is reflected in the number of French-speaking African countries covered by the Freedom of the Net study. Of the 17 African countries covered by the study, only three are Francophone (Morocco, Tunisia and Rwanda).",
+    "Homepage_paragraph_5": "There is no organisation that conducts an annual review of digital freedoms in all French-speaking African countries. However, taking stock of the situation is the first step towards building a cyberspace that respects digital freedoms.",
+    "Homepage_paragraph_6": "In order to allow for cross-country comparisons, we followed",
+    "Homepage_paragraph_7": "the methodology defined by Freedom House.",
+    "Homepage_paragraph_8": "However, due to time and resource constraints, it was decided to simplify and adapt it.",
+    "Methodology": "Methodology & results",
+    "Methodology_paragraph_1": "We relied on selected individual country reports published by CIPESA, Paradigm Initiative and the Media Foundation for West Africa (MFWA), among others. We also compiled missing data for non-covered countries by conducting open source research.",
+    "Methodology_paragraph_2": "At the same time, we conducted numerous interviews with local experts on digital freedoms as well as with organisations working at the international and regional levels. Some forty interviews were held in December 2022 and January 2023, enabling us to complete the data sheets and establish links with these actors.",
+    "Methodology_paragraph_3": "Finally, based on our research and interviews, we assign a score for each question and establish an overall score for the state of digital freedoms in the countries concerned. Thus, the overall score is assigned according to the following results :",
+    "Methodology_A": "Score A",
+    "Methodology_A_2": "Digital freedoms are respected and the country is considered free. The score must be between 81 and 100 points.",
+    "Methodology_B": "Score B",
+    "Methodology_B_2": "Digital freedoms are partially respected and the country is considered partially free. The score must be between 56 and 80 points.",
+    "Methodology_C": "Score C",
+    "Methodology_C_2": "Digital freedoms are particularly challenged in the country concerned and the country is considered partially unfree 31 and 55 points.",
+    "Methodology_D": "Score D",
+    "Methodology_D_2": "Digital freedoms are in serious trouble in the country concerned and the country is considered unfree 0 and 30 points.",
+    "Nota_Bene": "This report was financed by the Agence Française de Développement but does not reflect its position on the subject. We would like to thank the AFD and the actors we interviewed for this report.",
     "countries": [
         {
             "name": "Algeria",
@@ -581,8 +608,8 @@
             }
         },
         {
-            "name": "Morocco",
-            "slug": "morocco",
+            "name": "Maroc",
+            "slug": "maroc",
             "image": "Maroc.svg",
             "id": 14,
             "content": {
@@ -680,8 +707,8 @@
             }
         },
         {
-            "name": "Nigeria",
-            "slug": "nigeria",
+            "name": "Niger",
+            "slug": "niger",
             "image": "Niger.svg",
             "id": 17,
             "content": {
@@ -779,8 +806,8 @@
             }
         },
         {
-            "name": "Republic of Congo",
-            "slug": "republic-of-congo",
+            "name": "Republic of the Congo",
+            "slug": "republic-of-the-congo",
             "image": "République du Congo.svg",
             "id": 20,
             "content": {
@@ -1009,11 +1036,5 @@
                 }
             }
         }
-    ],
-    "HomePage": "HomePage",
-    "About": "About",
-    "Map": "Map",
-    "CountryList": "Countries",
-    "SwitchTheme": "Change theme",
-    "ClickMe": "Click for more information"
+    ]
 }

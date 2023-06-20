@@ -21,7 +21,7 @@ const routes = [
   },
   {
     path: '/countryList',
-    name: 'countylist',
+    name: 'countrylist',
     component: () => import('../views/CountryList.vue')
   },
   {

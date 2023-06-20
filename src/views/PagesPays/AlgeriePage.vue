@@ -1,110 +1,70 @@
 <template>
-  <div class="d-flex flex-column mb-6 ml-16 mr-16">
-    <div class="d-flex justify-start ml-16 mr-16">
-      <v-sheet>
-        <h1>Algérie</h1>
-      </v-sheet>
-      <!-- <div class="country-details">
-      <img :src="`/countries/${country.image}`" :alt="country.name" />
-    </div> -->
+  <section
+    v-if="this.$i18n.locale === 'fr'"
+    class="d-flex flex-column align-center ma-0 pa-0"
+  >
+    <div class="app-content">
+      <VuePDF :pdf="pdf" :page="9" fit-parent />
     </div>
-
-    <!-- <div class="d-flex justify-start flex-column ml-16 mr-16">
-      <v-sheet class="mb-6">
-        <h2>A. {{ $t(`countries[${countryId}].content.A.title`) }}</h2>
-      </v-sheet>
-
-      <ol id="shopping-list">
-        <li class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.A.un`) }}
-        </li>
-
-        <p class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.A.content_1`) }}
-        </p>
-
-        <li class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.A.deux`) }}
-        </li>
-
-        <p class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.A.content_2`) }}
-        </p>
-
-        <li class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.A.trois`) }}
-        </li>
-
-        <p class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.A.content_3`) }}
-        </p>
-      </ol>
+    <div class="app-content">
+      <VuePDF :pdf="pdf" :page="10" fit-parent />
     </div>
-
-    <div class="d-flex justify-start flex-column ml-16 mr-16">
-      <v-sheet class="mb-6">
-        <h2>B. {{ $t(`countries[${countryId}].content.B.title`) }}</h2>
-      </v-sheet>
-
-      <ol id="shopping-list">
-        <li class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.B.un`) }}
-        </li>
-
-        <p class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.B.content_1`) }}
-        </p>
-
-        <li class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.B.deux`) }}
-        </li>
-
-        <p class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.B.content_2`) }}
-        </p>
-      </ol>
-    </div> -->
-
-    <!-- <div class="d-flex justify-start flex-column ml-16 mr-16">
-      <v-sheet class="mb-6">
-        <h2>C. {{ $t(`countries[${countryId}].content.C.title`) }}</h2>
-      </v-sheet>
-
-      <ol id="shopping-list">
-        <li class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.C.un`) }}
-        </li>
-
-        <p class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.C.content_1`) }}
-        </p>
-
-        <li class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.C.deux`) }}
-        </li>
-
-        <p class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.C.content_2`) }}
-        </p>
-
-        <li class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.C.trois`) }}
-        </li>
-
-        <p class="ml-16 mr-16 mb-6 pl-5">
-          {{ $t(`countries[${countryId}].content.C.content_3`) }}
-        </p>
-        <a :href="`${country.content.C.url}`" target="_blank">{{
-          $t(`countries[${countryId}].content.C.url`)
-        }}</a>
-      </ol>
-    </div> -->
-  </div>
+    <div class="app-content">
+      <VuePDF :pdf="pdf" :page="11" fit-parent />
+    </div>
+  </section>
+  <section
+    v-if="this.$i18n.locale === 'en'"
+    class="d-flex flex-column align-center ma-0 pa-0"
+  >
+    <div class="app-content">
+      <VuePDF :pdf="newPDFToLoad" :page="9" fit-parent />
+    </div>
+    <div class="app-content">
+      <VuePDF :pdf="newPDFToLoad" :page="10" fit-parent />
+    </div>
+    <div class="app-content">
+      <VuePDF :pdf="newPDFToLoad" :page="11" fit-parent />
+    </div>
+  </section>
 </template>
 
 <script>
-export default {};
+export default {
+  data() {
+    return {
+
+    };
+  },
+};
 </script>
 
 <style>
+.app-header {
+  padding: 16px;
+  box-shadow: 0 2px 8px 4px rgba(0, 0, 0, 0.1);
+  background-color: #555;
+  color: #ddd;
+}
+
+
+
+body::-webkit-scrollbar{
+  display: none;
+}
+.right {
+  float: right;
+}
 </style>
+
+<script setup>
+import { VuePDF, usePDF } from "@tato30/vue-pdf";
+
+const pdfSources = [
+  '/AFD_FR_vdef.pdf',
+  '/AFD_EN_vdef.pdf'
+]
+
+const { pdf } = usePDF(pdfSources[0])
+const { pdf: newPDFToLoad } = usePDF(pdfSources[1])
+</script>

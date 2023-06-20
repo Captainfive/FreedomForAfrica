@@ -4,7 +4,7 @@ import fr from './fr.json'
 import en from './en.json'
 
 const i18n = createI18n({
-    locale: localStorage.getItem("lang"),
+    locale: "fr",
     messages: {
       fr,
       en

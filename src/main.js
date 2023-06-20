@@ -20,4 +20,4 @@ const vuetify = createVuetify({
 })
 
 
-createApp(App).use(vuetify).use(router).use(i18n).mount('#app')
+createApp(App).use(router).use(vuetify).use(i18n).mount('#app')
